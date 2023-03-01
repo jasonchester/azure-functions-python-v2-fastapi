@@ -1,0 +1,9 @@
+.git*
+.vscode
+test
+.venv
+.azurite
+__pycache__
+local.settings.json
+local.settings.json_template
+getting_started.md
